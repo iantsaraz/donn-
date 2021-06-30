@@ -3,8 +3,8 @@
   "client": [
     {
       "id": 1,
-      "nom": "test_nom"
-       "prenom": "test_prenom"
+      "nom": "test_nom",
+       "prenom": "test_prenom",
        "email": "test@gmail.com"
   
     },
