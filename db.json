@@ -1,6 +1,6 @@
 
 {
-  "client": [
+  "client": 
     {
       "id": 1,
       "nom": "test_nom",
@@ -8,7 +8,7 @@
        "email": "test@gmail.com"
   
     }
-  ]
+  
   
   
  
