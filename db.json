@@ -1,8 +1,21 @@
 {
   "clients": [
-    { "id": 1, "nom": "test", "prenom": "test","email": "test@gmail.com" }
-    { "id": 2, "nom": "nom_test", "prenom": "prenom_test","email": "email_test@gmail.com" }
-    { "id": 3, "nom": "test_nom", "prenom": "test_prenom","email": "test_email@gmail.com" }
+    { 
+      "id": 1,
+      "nom": "test",
+      "prenom": "test",
+      "email": "test@gmail.com" 
+    },
+    { "id": 2,
+     "nom": "nom_test",
+     "prenom": "prenom_test",
+     "email": "email_test@gmail.com" 
+    },
+    { "id": 3,
+     "nom": "test_nom",
+     "prenom": "test_prenom",
+     "email": "test_email@gmail.com"
+    }
   ],
 
 }
