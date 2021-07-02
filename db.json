@@ -1,5 +1,5 @@
 {
-  "clients": [
+  "clients": 
     { 
       "id": 1,
       "nom": "test",
@@ -16,6 +16,5 @@
      "prenom": "test_prenom",
      "email": "test_email@gmail.com"
     }
-  ],
-
+  
 }
