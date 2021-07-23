@@ -1,0 +1,22 @@
+{
+  "name": "donne",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --host 192.168.88.34 db.json --port 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iantsaraz/donne.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iantsaraz/donne/issues"
+  },
+  "homepage": "https://github.com/iantsaraz/donne#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}

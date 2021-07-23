@@ -1,20 +1,88 @@
 {
   "clients": [
-    { 
+    {
+      "email": "dfghdf@fghsdfg.com",
+      "nom": "sdfhsgh",
+      "prenom": "fgdhdfgh",
       "id": 1,
-      "nom": "test",
-      "prenom": "test",
-      "email": "test@gmail.com" 
+      "permis": {
+        "verso": "",
+        "recto": null
+      },
+      "assurance": {
+        "carte_verte": null,
+        "nom": "sdf",
+        "adresse": "sdf",
+        "telephone": "45564"
+      },
+      "adresse": {
+        "voie": "dgfqsdgf",
+        "numero_voie": "sqdfqsd",
+        "code_postal": "465",
+        "complement": "qsdf"
+      }
     },
-    { "id": 2,
-     "nom": "nom_test",
-     "prenom": "prenom_test",
-     "email": "email_test@gmail.com" 
+    {
+      "id": 2,
+      "nom": "nom_test",
+      "prenom": "prenom_test",
+      "email": "email_test@gmail.com",
+      "permis": {
+        "recto": null,
+        "verso": null
+      }
     },
-    { "id": 3,
-     "nom": "test_nom",
-     "prenom": "test_prenom",
-     "email": "test_email@gmail.com"
+    {
+      "id": 3,
+      "nom": "test_nom",
+      "prenom": "test_prenom",
+      "email": "test_email@gmail.com",
+      "permis": {
+        "recto": null,
+        "verso": null
+      }
+    }
+  ],
+  "Users": [
+    {
+      "nom": "iantsa",
+      "prenom": "raz",
+      "nom_utilisateur": "iantsa raz",
+      "poste": "test",
+      "role": "Technicien",
+      "id": 1
+    }
+  ],
+  "default_sinistres": [
+    {
+      "id": 1,
+      "nom": "Gonflage des pneu"
+    },
+    {
+      "id": 2,
+      "nom": "Vidange"
+    },
+    {
+      "id": 3,
+      "nom": "Lavage"
+    },
+    {
+      "id": 4,
+      "nom": "Diagnostiques"
+    }
+  ],
+  "sinistres": [
+    {
+      "id": 1,
+      "nom": "pneu creuvés",
+      "description": "boucher et regonfler les pneus",
+      "photo": "C:\\fakepath\\Capture d’écran de 2021-06-08 14-37-14.png"
+    },
+ 
+    {
+      "nom": "wgsdfg",
+      "description": "fdgqd",
+      "id": 2
     }
   ]
 }
