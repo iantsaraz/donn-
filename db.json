@@ -1,9 +1,9 @@
 {
   "clients": [
     {
-      "email": "dfghdf@fghsdfg.com",
-      "nom": "sdfhsgh",
-      "prenom": "fgdhdfgh",
+      "email": "kotonandra@gmail.com",
+      "nom": "koto",
+      "prenom": "nandra",
       "id": 1,
       "permis": {
         "verso": "",
@@ -11,22 +11,22 @@
       },
       "assurance": {
         "carte_verte": null,
-        "nom": "sdf",
-        "adresse": "sdf",
+        "nom": "koto",
+        "adresse": "Analakely, Antananarivo",
         "telephone": "45564"
       },
       "adresse": {
         "voie": "dgfqsdgf",
         "numero_voie": "sqdfqsd",
         "code_postal": "465",
-        "complement": "qsdf"
+        "complement": "complement"
       }
     },
     {
       "id": 2,
-      "nom": "nom_test",
-      "prenom": "prenom_test",
-      "email": "email_test@gmail.com",
+      "nom": "Lita",
+      "prenom": "kely",
+      "email": "Litakely@gmail.com",
       "permis": {
         "recto": null,
         "verso": null
@@ -34,9 +34,9 @@
     },
     {
       "id": 3,
-      "nom": "test_nom",
-      "prenom": "test_prenom",
-      "email": "test_email@gmail.com",
+      "nom": "Bema",
+      "prenom": "renina",
+      "email": "Bemarenina@gmail.com",
       "permis": {
         "recto": null,
         "verso": null
