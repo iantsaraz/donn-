@@ -78,10 +78,25 @@
       "description": "boucher et regonfler les pneus",
       "photo": "C:\\fakepath\\Capture d’écran de 2021-06-08 14-37-14.png"
     },
- 
     {
       "nom": "wgsdfg",
       "description": "fdgqd",
+      "id": 2
+    }
+  ],
+  "User_cooking": [
+    {
+      "username": "freddy",
+      "email": "freddymichel@gmail.com",
+      "password": "caesar",
+      "phone": "0329252937",
+      "id": 1
+    },
+    {
+      "username": "test",
+      "email": "test@gmail.com",
+      "password": "12345",
+      "phone": "123456789",
       "id": 2
     }
   ]
