@@ -99,5 +99,215 @@
       "phone": "123456789",
       "id": 2
     }
+  ],
+  "foodItems": [
+    {
+      "id": 1,
+      "foodName": "Hamburger",
+      "foodType": "Burger",
+      "calories": 390,
+      "image": "https://imgur.com/s5qTep4.jpg",
+      "rate": "6740",
+      "sousTitre": "Lorem ipsum dolor sit amet ",
+      "serving": "3",
+      "prepare": "25",
+      "cook": "20",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+      "ingredient": [
+        "225g softened butter",
+        "225g golden caster sugar",
+        "4 large eggs",
+        "lemon, zested",
+        "1 tsp vanilla extract",
+        "225g self-raising flour",
+        "splash of milk",
+        "icing sugar for dusting"
+      ],
+      "steps": [
+        "Place beef roast in crock pot.",
+        "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+        "Pour the water around the roast.",
+        "Cook on low for 7-9 hours."
+      ]
+    },
+    {
+      "id": 2,
+      "foodName": "Burger",
+      "calories": 670,
+      "correctedTerm": "Hamburger",
+      "image": "https://imgur.com/IORRnb6.jpg",
+      "rate": "6654",
+      "sousTitre": "Lorem ipsum dolor sit amet ",
+      "serving": "3",
+      "prepare": "25",
+      "cook": "20",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+      "ingredient": [
+        "225g softened butter",
+        "225g golden caster sugar",
+        "4 large eggs",
+        "lemon, zested",
+        "1 tsp vanilla extract",
+        "225g self-raising flour",
+        "splash of milk",
+        "icing sugar for dusting"
+      ],
+      "steps": [
+        "Place beef roast in crock pot.",
+        "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+        "Pour the water around the roast.",
+        "Cook on low for 7-9 hours."
+      ]
+    },
+    {
+      "id": 3,
+      "foodName": "Cheeseburger",
+      "foodType": "Burger",
+      "calories": 480,
+      "image": "https://imgur.com/UVZ5ObR.jpg",
+      "rate": "125541",
+      "sousTitre": "Lorem ipsum dolor sit amet ",
+      "serving": "3",
+      "prepare": "25",
+      "cook": "20",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+      "ingredient": [
+        "225g softened butter",
+        "225g golden caster sugar",
+        "4 large eggs",
+        "lemon, zested",
+        "1 tsp vanilla extract",
+        "225g self-raising flour",
+        "splash of milk",
+        "icing sugar for dusting"
+      ],
+      "steps": [
+        "Place beef roast in crock pot.",
+        "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+        "Pour the water around the roast.",
+        "Cook on low for 7-9 hours."
+      ]
+    },
+    {
+      "id": 4,
+      "foodName": "Fish",
+      "foodType": "SeaFood",
+      "calories": 480,
+      "image": "https://imgur.com/MEeusCn.jpg",
+      "rate": "125541",
+      "sousTitre": "Lorem ipsum dolor sit amet ",
+      "serving": "3",
+      "prepare": "25",
+      "cook": "20",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+      "ingredient": [
+        "225g softened butter",
+        "225g golden caster sugar",
+        "4 large eggs",
+        "lemon, zested",
+        "1 tsp vanilla extract",
+        "225g self-raising flour",
+        "splash of milk",
+        "icing sugar for dusting"
+      ],
+      "steps": [
+        "Place beef roast in crock pot.",
+        "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+        "Pour the water around the roast.",
+        "Cook on low for 7-9 hours."
+      ]
+    },
+    {
+      "id": 5,
+      "foodName": "Vegetable",
+      "calories": 670,
+      "correctedTerm": "Vegetable",
+      "image": "https://imgur.com/UtQrFRs.jpg",
+      "rate": "6654",
+      "sousTitre": "Lorem ipsum dolor sit amet ",
+      "serving": "3",
+      "prepare": "25",
+      "cook": "20",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+      "ingredient": [
+        "225g softened butter",
+        "225g golden caster sugar",
+        "4 large eggs",
+        "lemon, zested",
+        "1 tsp vanilla extract",
+        "225g self-raising flour",
+        "splash of milk",
+        "icing sugar for dusting"
+      ],
+      "steps": [
+        "Place beef roast in crock pot.",
+        "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+        "Pour the water around the roast.",
+        "Cook on low for 7-9 hours."
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "title": "Thanks",
+      "foodtype": "Burger"
+    },
+    {
+      "id": 2,
+      "title": "  Great Pairings ",
+      "foodtype": "Burger"
+    },
+    {
+      "id": 3,
+      "title": "  Nice !!!",
+      "foodtype": "Burger"
+    },
+    {
+      "id": 4,
+      "title": "  Nice !!!",
+      "foodtype": "Seafood"
+    }
+  ],
+  "food_recipe": [
+    {
+      "id": 1,
+      "nom": "chef Adams",
+      "avatar": "https://static.vecteezy.com/ti/vecteur-libre/p1/364628-chef-avatar-illustration-gratuit-vectoriel.jpg",
+      "cooking_tips": [
+        {
+          "id": 1,
+          "foodtype": "Burger",
+          "descriptions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+          "title": " 12 Great Pairings for Burger"
+         
+        },
+        {
+          "id": 2,
+          "foodtype": "Seafood",
+          "descriptions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+          "title": " 12 Great Pairings for Seafood"
+        }
+      ]
+     
+    },
+    {
+      "id": 2,
+      "nom": "chef Luc",
+      "cooking_tips": [
+        {
+          "id": 1,
+          "foodtype": "Burger",
+          "descriptions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+          "title": " 12 Great Pairings for Burger"
+        },
+        {
+          "id": 2,
+          "foodtype": "Seafood",
+          "descriptions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+          "title": " 12 Great Pairings for Seafood"
+        }
+      ]
+    }
   ]
 }
